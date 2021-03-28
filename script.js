@@ -42,7 +42,7 @@ const ellapsedTimeTimeUnits = (diffTime) => {
 };
 
 const formatEllapsedString = (delta) => {
-    return `${delta.months} months ${delta.days} days ${delta.hours} hours ${delta.minutes} minutes ${delta.seconds} seconds`;
+    return `${delta.months} months ${delta.days} days`;
 };
 
 const refresh = () => {
