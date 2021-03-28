@@ -1,6 +1,7 @@
-#vehicles, #pedestrians {
+.emphasis {
     font-weight: 600;
 }
 body {
     font-family: system-ui;
+    text-align: center;
 }
